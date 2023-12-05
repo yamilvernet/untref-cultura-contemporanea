@@ -1,0 +1,9 @@
+El texto se enfoca en la transformación de los espacios públicos en las grandes ciudades desde una perspectiva sociocultural. Se discute la erosión de la idea de "civilidad" en estos espacios y se introduce el concepto de "espacios públicos no civiles" propuesto por Z. Bauman.
+
+Se menciona la preocupación por la desaparición del espacio público, ya que se argumenta que la urbanización tiende a desconectar a las personas de la vida pública y a favorecer la cultura electrónica, que reemplaza la experiencia directa por la interacción a distancia.
+
+Se introduce la noción de "no lugares" desarrollada por Marc Augé, que se refiere a espacios que carecen de identidad, relaciones interpersonales y significado histórico. Ejemplos de "no lugares" incluyen autopistas, salas de espera de aeropuertos y centros comerciales. En estos espacios, la relación de las personas con el entorno está mediada por textos prescriptivos, informativos o prohibitivos, y la identidad del individuo se reduce a su rol como consumidor.
+
+Augé argumenta que la ligazón del individuo con el "no lugar" implica una contractualidad solitaria, donde se respetan las reglas del espacio a cambio de cumplir un rol específico. Se destaca la soledad y la similitud en los "no lugares", donde los individuos responden a los mismos mensajes y códigos, independientemente de su identidad personal.
+
+Los "no lugares" se caracterizan por su serialización y su impersonalidad, lo que les confiere un sentido de familiaridad universal. Estos espacios representan la aceleración de la historia, el estrechamiento del espacio y el exceso de individualidad en la sociedad de consumo, según Augé.
