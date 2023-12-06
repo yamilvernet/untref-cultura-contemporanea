@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "lastOpenFiles": [
     "texts/16_bauman_vida_consumo.pdf",
     "summaries/01_ortiz_modernidad_y_espacio.md",
-    "README.md.md",
+    "README.md",
     "texts/15_costa_formas_de_vida_infotecnologicas.pdf",
     "summaries/12_sibilia_biopoder.md",
     "texts/12_sibilia_biopoder.pdf",
