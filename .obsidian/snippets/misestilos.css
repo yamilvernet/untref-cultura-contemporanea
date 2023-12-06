@@ -1,0 +1,4 @@
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    background-color: rgb(145 0 255 / 26%);
+    color: var(--text-normal);
+}

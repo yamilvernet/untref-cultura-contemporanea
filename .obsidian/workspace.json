@@ -11,11 +11,9 @@
             "id": "62e78163ec764466",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "summaries/06_bauman_espacio_tiempo.md",
-                "mode": "source",
-                "source": false
+                "file": "texts/16_bauman_vida_consumo.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summaries/06_bauman_espacio_tiempo.md",
+                "file": "texts/16_bauman_vida_consumo.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summaries/06_bauman_espacio_tiempo.md",
+                "file": "texts/16_bauman_vida_consumo.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summaries/06_bauman_espacio_tiempo.md"
+                "file": "texts/16_bauman_vida_consumo.pdf"
               }
             }
           }
@@ -148,8 +146,22 @@
   },
   "active": "62e78163ec764466",
   "lastOpenFiles": [
-    "texts/06_bauman_espacio_tiempo.pdf",
+    "texts/15_costa_formas_de_vida_infotecnologicas.pdf",
+    "summaries/12_sibilia_biopoder.md",
+    "texts/12_sibilia_biopoder.pdf",
+    "summaries/11_foucalt_verdad_formas_juridicas_quinta.md",
+    "summaries/10_grimson_mitomanias.md",
+    "texts/01_ortiz_modernidad_y_espacio.pdf",
+    "texts/11_foucalt_verdad_formas_juridicas_quinta.pdf",
+    "texts/10_grimson_mitomanias.pdf",
+    "summaries/09_margulis_segregacion_negada.md",
+    "texts/09_margulis_segregacion_negada.pdf",
+    "summaries/08_auyero_como_hacen_los_pobres_para_sobrevivir.md",
+    "texts/08_auyero_como_hacen_los_pobres_para_sobrevivir.pdf",
+    "summaries/07_svampa_fragmentacion_espacial.md",
+    "texts/07_svampa_fragmentacion_espacial.pdf",
     "summaries/06_bauman_espacio_tiempo.md",
+    "texts/06_bauman_espacio_tiempo.pdf",
     "summaries/05_valiente_nolugar.md",
     "summaries/04_Ibanez_publicidad_anuncia_si_misma.md",
     "summaries/03_valiente_mundializacion_e_identidad.md",
@@ -157,9 +169,6 @@
     "summaries/01_ortiz_modernidad_y_espacio.md",
     "texts/05_valiente_nolugar.pdf",
     "texts/04_Ibanez_publicidad_anuncia_si_misma.pdf",
-    "texts/03_valiente_mundializacion_e_identidad.pdf",
-    "texts/02_ortiz_cultura_y_modernidad.pdf",
-    "texts/01_ortiz_modernidad_y_espacio.pdf",
     "Prompt.md"
   ]
 }

@@ -2,5 +2,8 @@
   "accentColor": "",
   "interfaceFontFamily": "JuliaMono",
   "textFontFamily": "JuliaMono",
-  "monospaceFontFamily": "JuliaMono"
+  "monospaceFontFamily": "JuliaMono",
+  "enabledCssSnippets": [
+    "misestilos"
+  ]
 }
