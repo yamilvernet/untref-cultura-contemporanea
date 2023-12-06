@@ -11,9 +11,11 @@
             "id": "62e78163ec764466",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "texts/16_bauman_vida_consumo.pdf"
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "texts/16_bauman_vida_consumo.pdf",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "texts/16_bauman_vida_consumo.pdf",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "texts/16_bauman_vida_consumo.pdf"
+                "file": "README.md.md"
               }
             }
           }
@@ -146,6 +148,9 @@
   },
   "active": "62e78163ec764466",
   "lastOpenFiles": [
+    "texts/16_bauman_vida_consumo.pdf",
+    "summaries/01_ortiz_modernidad_y_espacio.md",
+    "README.md.md",
     "texts/15_costa_formas_de_vida_infotecnologicas.pdf",
     "summaries/12_sibilia_biopoder.md",
     "texts/12_sibilia_biopoder.pdf",
@@ -166,9 +171,6 @@
     "summaries/04_Ibanez_publicidad_anuncia_si_misma.md",
     "summaries/03_valiente_mundializacion_e_identidad.md",
     "summaries/02_ortiz_cultura_y_modernidad.md",
-    "summaries/01_ortiz_modernidad_y_espacio.md",
-    "texts/05_valiente_nolugar.pdf",
-    "texts/04_Ibanez_publicidad_anuncia_si_misma.pdf",
     "Prompt.md"
   ]
 }
