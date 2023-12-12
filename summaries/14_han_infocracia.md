@@ -1,0 +1,36 @@
+# Keywords
+
+régimen de la información, disciplina, ganado consumidor, comunicación, redes, sumisión, vigilancia
+
+# Cuadro comparativo de los regímenes
+
+|   | Régimen de la Disciplina | Régimen de la Información |
+|---|---------------------------|---------------------------|
+| **Explota** | Cuerpos y energías | Información y datos |
+| **Posee** | Medios de producción | Acceso a la información |
+| **Personas** | Como ganado laboral | Como datos y ganado consumidor |
+| **Medio de Dominación** | Aislamiento, reglamentación, adiestramiento físico | Comunicación, redes |
+| **Sujetos** | Dóciles y obedientes | Libres, auténticos, creativos |
+| **Visibilidad** | Poder invisible, gobernados obligadamente visibles | Las personas desean mostrarse, autoproducción de visibilidad |
+| **Enfoque de Dominio** | Cuerpo como máquina productiva | Psique mediante la psicopolítica |
+| **Objetivo del Poder** | Cuerpo como objeto de optimización | Psique como objeto de influencia |
+| **Ideales del Régimen** | Dócil y sumiso | Libre, auténtico, creativo |
+| **Herramienta de Vigilancia** | Aislamiento espacial, panóptico | Vigilancia a través de datos y redes |
+| **Relación con la Libertad** | Limitada, sujeto a disciplina | Sentida, ilusoria, sujeta a la información |
+| **Efecto en la Identidad** | Máquina de trabajo, ganado laboral | Sujeto de autoproducción, consumidor de información |
+
+# Resumen del texto
+
+El "régimen de la información" es una forma de dominio en la que la información y su procesamiento determinan los procesos sociales, económicos y políticos. A diferencia del antiguo "régimen de la disciplina", que explotaba cuerpos y energías, ahora se explota información y datos. En el capitalismo de la información, el poder se obtiene a través del acceso a la información, dando lugar a un capitalismo de la vigilancia que degrada a las personas a datos y ganado consumidor.
+
+Mientras el régimen de la disciplina convierte a los seres humanos en "cuerpos dóciles" como máquinas de producción, el régimen de la información busca individuos que se perciban como libres, auténticos y creativos. A diferencia de las técnicas de disciplina como el aislamiento en el régimen de la disciplina, el régimen de la información explota la comunicación y la vigilancia se realiza a través de datos. Aunque el poder disciplinario se centraba en el cuerpo, el régimen de la información se apodera de la psique mediante la psicopolítica, donde el cuerpo es más objeto de estética y fitness que de disciplina laboral, aunque está secuestrado por la industria de la belleza en el capitalismo informativo occidental.
+
+La dominación busca visibilidad, y en el régimen de los soberanos, se logra a través de escenificaciones ostentosas y espectáculos de poder. Sin embargo, en la sociedad de la información, la visibilidad se transforma. El régimen de la disciplina, con su panóptico, invertía la visibilidad: los gobernados eran visibles, mientras los gobernantes permanecían invisibles. La sociedad de la información utiliza redes abiertas y tecnología digital para la vigilancia. La paradoja radica en que, a pesar de sentirse libres, las personas contribuyen a su propia vigilancia al generar datos y comunicarse intensamente. El imperativo de la transparencia en la sociedad de la información implica que todo debe presentarse como información, y la prisión digital se vuelve transparente. La paradoja final es que, aunque la información circula con libertad, las personas están atrapadas en ella, colocándose grilletes al comunicar y producir información.
+
+El Flagship Store de Apple en Nueva York, un cubo de cristal, simboliza la transparencia frente a la Kaaba de La Meca, que representa lo arcano. Aunque el edificio de Apple sugiere libertad, en realidad refleja la dominación del régimen de la información, donde las personas son totalmente transparentes. La transparencia en este contexto no revela la verdadera naturaleza del dominio, que se oculta tras la apariencia agradable de las redes sociales, motores de búsqueda y asistentes de voz. Dispositivos como smartphones y smarthomes se convierten en instrumentos de vigilancia constante, introduciendo la vigilancia en la vida cotidiana bajo la apariencia de conveniencia. La prisión digital como zona de bienestar inteligente carece de resistencia, y la búsqueda de aprobación social, _como un preciado like_, excluye la posibilidad de revolución.
+
+El capitalismo de la información adopta técnicas de poder neoliberales que difieren de las coerciones y prohibiciones del régimen de la disciplina. Este nuevo poder explota la libertad, controlando la voluntad de manera inconsciente con incentivos positivos en lugar de represión violenta. En lugar de vigilancia y castigo, se enfoca en motivación y optimización. En el régimen neoliberal de la información, la dominación se presenta como libertad y comunicación, especialmente a través de influencers en redes sociales. Estos influencers, al internalizar las técnicas neoliberales, se convierten en modelos a seguir con una dimensión religiosa. Los seguidores participan en una especie de eucaristía digital al comprar productos que los influencers consumen en sus vidas escenificadas. Las redes sociales funcionan como una Iglesia, donde el "like" es el amén, compartir es la comunión, y el consumo es la redención. El acto repetido de consumo bajo la guía de influencers se convierte en una liturgia, fusionando consumo e identidad, convirtiendo la identidad en una mercancía consumible.
+
+En el régimen neoliberal de la información, la ilusión de libertad se construye en acciones superficiales como clics y likes, carentes de resistencia o potencial revolucionario. La conducta psicopolítica se controla mediante la "libertad sentida", donde la conciencia de la vigilancia permanente es eclipsada por la sensación de libertad. A diferencia de la ideología totalitaria, el dataísmo busca el conocimiento total a través de algoritmos, no relatos, marcando un cambio de narrativa a recuentos algorítmicos. Mientras el totalitarismo forma masas obedientes con un alma colectiva, el régimen de la información aísla a individuos en enjambres digitales, eliminando la noción de hombre-masa y asignando a cada persona un perfil único mediante la elaboración de perfiles de comportamiento. Este enfoque singular desafía la era de las masas, ya que los habitantes del mundo digitalizado no son "nadie" sino individuos identificables con perfiles distintivos.
+
+Walter Benjamin postula el concepto de "inconsciente óptico" en el cine, destacando cómo la cámara revela microacciones invisibles al ojo humano. Trasladando esta idea al régimen de la información, el big data y la inteligencia artificial actúan como una lupa digital, descubriendo un "inconsciente digital". Estas tecnologías influyen en el comportamiento por debajo de la conciencia, interviniendo en capas prerreflexivas e instintivas. La psicopolítica basada en datos opera sin conciencia. En la revolución digital, Carl Schmitt redefiniría la soberanía, afirmando que el control de la información, no las ondas del espacio, es crucial para el poder en este nuevo régimen mediático.

@@ -4,18 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "ce70b1e7fecfb266",
+        "id": "a8fa40b767c63b2f",
         "type": "tabs",
+        "dimension": 40.99639855942377,
         "children": [
           {
-            "id": "62e78163ec764466",
+            "id": "f893e670b0631311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "summaries/14_han_infocracia.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7467fafbe45b56ce",
+        "type": "tabs",
+        "dimension": 59.003601440576226,
+        "children": [
+          {
+            "id": "a90f98d3a01b540b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "texts/14_han_infocracia.pdf"
               }
             }
           }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76bc179356694db2",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "summaries/14_han_infocracia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "summaries/14_han_infocracia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "summaries/14_han_infocracia.md"
               }
             }
           }
@@ -146,31 +165,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62e78163ec764466",
+  "active": "f893e670b0631311",
   "lastOpenFiles": [
-    "texts/16_bauman_vida_consumo.pdf",
-    "summaries/01_ortiz_modernidad_y_espacio.md",
-    "README.md",
-    "texts/15_costa_formas_de_vida_infotecnologicas.pdf",
+    "export/14_han_infocracia.pdf",
+    "texts/14_han_infocracia.pdf",
+    "summaries/14_han_infocracia.md",
+    "Prompt.md",
+    "texts/13_valiente_dime_lo_que_comes.pdf",
+    "summaries/13_valiente_dime_lo_que_comes.md",
+    "export/13_valiente_dime_lo_que_comes.pdf",
     "summaries/12_sibilia_biopoder.md",
-    "texts/12_sibilia_biopoder.pdf",
+    "export/12_sibilia_biopoder.pdf",
     "summaries/11_foucalt_verdad_formas_juridicas_quinta.md",
+    "export/11_foucalt_verdad_formas_juridicas_quinta.pdf",
     "summaries/10_grimson_mitomanias.md",
-    "texts/01_ortiz_modernidad_y_espacio.pdf",
-    "texts/11_foucalt_verdad_formas_juridicas_quinta.pdf",
-    "texts/10_grimson_mitomanias.pdf",
+    "export/10_grimson_mitomanias.pdf",
     "summaries/09_margulis_segregacion_negada.md",
-    "texts/09_margulis_segregacion_negada.pdf",
+    "export/09_margulis_segregacion_negada.pdf",
     "summaries/08_auyero_como_hacen_los_pobres_para_sobrevivir.md",
-    "texts/08_auyero_como_hacen_los_pobres_para_sobrevivir.pdf",
+    "export/08_auyero_como_hacen_los_pobres_para_sobrevivir.pdf",
     "summaries/07_svampa_fragmentacion_espacial.md",
-    "texts/07_svampa_fragmentacion_espacial.pdf",
+    "export/07_svampa_fragmentacion_espacial.pdf",
     "summaries/06_bauman_espacio_tiempo.md",
-    "texts/06_bauman_espacio_tiempo.pdf",
+    "export/06_bauman_espacio_tiempo.pdf",
     "summaries/05_valiente_nolugar.md",
     "summaries/04_Ibanez_publicidad_anuncia_si_misma.md",
     "summaries/03_valiente_mundializacion_e_identidad.md",
     "summaries/02_ortiz_cultura_y_modernidad.md",
-    "Prompt.md"
+    "summaries/01_ortiz_modernidad_y_espacio.md",
+    "README.md"
   ]
 }
