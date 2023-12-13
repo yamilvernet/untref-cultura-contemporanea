@@ -51,6 +51,7 @@ Existe una tercera categoría de espacios públicos, denominados "no-lugares" se
 Las claves de uniformidad de los patrones de conducta deben ser legibles para todos. Un no-lugar es un espacio despojado de las expresiones simbólicas de la identidad, las relaciones y la historia.
 
 La última categoria son los espacios vacios, estos son lugares a los que no se les adscribe sentido alguno. No tienen que estar físicamente aislados por medio de cercas o barreras. No son lugares prohibidos, sino inaccesibles debido a su invisibilidad. Pueden ser restos de la planificación urbana o elementos necesarios para mapear el espacio compartido por diferentes usuarios. Los espacios vacíos pueden ser invisibles o pasar desapercibidos, pero a menudo son lugares donde las personas se sentirían perdidas o vulnerables ante la presencia de otros seres humanos. Un ejemplo se da en una ciudad donde cada habitante tiene su propio mapa mental, y estos mapas no se superponen.
+
 ## No hables con extraños
 
 La civilidad destaca como la habilidad para relacionarse con extraños sin hostilidad ni presiones para cambiar. Aparecen lugares públicos, no civiles, donde la interacción carece de significado. Evitar a extraños parece más seguro que lidiar con ellos.

@@ -6,7 +6,7 @@
       {
         "id": "a8fa40b767c63b2f",
         "type": "tabs",
-        "dimension": 40.99639855942377,
+        "dimension": 29.90405117270789,
         "children": [
           {
             "id": "f893e670b0631311",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summaries/14_han_infocracia.md",
+                "file": "summaries/15_costa_formas_de_vida_infotecnologicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,17 +23,17 @@
         ]
       },
       {
-        "id": "7467fafbe45b56ce",
+        "id": "92eb063fb87ecdcd",
         "type": "tabs",
-        "dimension": 59.003601440576226,
+        "dimension": 70.0959488272921,
         "children": [
           {
-            "id": "a90f98d3a01b540b",
+            "id": "1ed596fabeaec138",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "texts/14_han_infocracia.pdf"
+                "file": "texts/18_han_crisis_verdad.pdf"
               }
             }
           }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76bc179356694db2",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summaries/14_han_infocracia.md",
+                "file": "summaries/15_costa_formas_de_vida_infotecnologicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summaries/14_han_infocracia.md",
+                "file": "summaries/15_costa_formas_de_vida_infotecnologicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summaries/14_han_infocracia.md"
+                "file": "summaries/15_costa_formas_de_vida_infotecnologicas.md"
               }
             }
           }
@@ -162,14 +161,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
   "active": "f893e670b0631311",
   "lastOpenFiles": [
+    "texts/18_han_crisis_verdad.pdf",
+    "texts/17_palermo_ventrici_canto_de_las_diversidades.pdf",
+    "texts/16_bauman_vida_consumo.pdf",
+    "texts/15_costa_formas_de_vida_infotecnologicas.pdf",
+    "summaries/15_costa_formas_de_vida_infotecnologicas.md",
+    "export/15_costa_formas_de_vida_infotecnologicas.pdf",
+    "flora.md",
+    "aditivos.md",
+    "Pasted image 20231213020241.png",
+    "Pasted image 20231213020301.png",
+    "summaries/14_han_infocracia.md",
     "export/14_han_infocracia.pdf",
     "texts/14_han_infocracia.pdf",
-    "summaries/14_han_infocracia.md",
     "Prompt.md",
     "texts/13_valiente_dime_lo_que_comes.pdf",
     "summaries/13_valiente_dime_lo_que_comes.md",
@@ -179,15 +189,10 @@
     "summaries/11_foucalt_verdad_formas_juridicas_quinta.md",
     "export/11_foucalt_verdad_formas_juridicas_quinta.pdf",
     "summaries/10_grimson_mitomanias.md",
-    "export/10_grimson_mitomanias.pdf",
     "summaries/09_margulis_segregacion_negada.md",
-    "export/09_margulis_segregacion_negada.pdf",
     "summaries/08_auyero_como_hacen_los_pobres_para_sobrevivir.md",
-    "export/08_auyero_como_hacen_los_pobres_para_sobrevivir.pdf",
     "summaries/07_svampa_fragmentacion_espacial.md",
-    "export/07_svampa_fragmentacion_espacial.pdf",
     "summaries/06_bauman_espacio_tiempo.md",
-    "export/06_bauman_espacio_tiempo.pdf",
     "summaries/05_valiente_nolugar.md",
     "summaries/04_Ibanez_publicidad_anuncia_si_misma.md",
     "summaries/03_valiente_mundializacion_e_identidad.md",
