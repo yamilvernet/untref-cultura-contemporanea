@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e1cf812606223564",
+        "id": "b7b651cbe495dab8",
         "type": "tabs",
+        "dimension": 41.47121535181237,
         "children": [
           {
             "id": "61d8a932530bcbdc",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summaries/19_palermo_ventrici_hiperconexion.md",
+                "file": "summaries/18_han_crisis_verdad.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +23,17 @@
         ]
       },
       {
-        "id": "b7b651cbe495dab8",
+        "id": "de0736dd16fe6046",
         "type": "tabs",
+        "dimension": 58.52878464818764,
         "children": [
           {
-            "id": "20df407d299a05bd",
+            "id": "2f1663c8c956945e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "texts/17_palermo_ventrici_canto_de_las_diversidades.pdf"
+                "file": "texts/18_han_crisis_verdad.pdf"
               }
             }
           }
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summaries/19_palermo_ventrici_hiperconexion.md",
+                "file": "summaries/18_han_crisis_verdad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summaries/19_palermo_ventrici_hiperconexion.md",
+                "file": "summaries/18_han_crisis_verdad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summaries/19_palermo_ventrici_hiperconexion.md"
+                "file": "summaries/18_han_crisis_verdad.md"
               }
             }
           }
@@ -165,27 +167,29 @@
   },
   "active": "61d8a932530bcbdc",
   "lastOpenFiles": [
-    "summaries/17_palermo_ventrici_canto_de_las_diversidades.md",
-    "export/17_palermo_ventrici_canto_de_las_diversidades.pdf",
+    "export/18_han_crisis_verdad.pdf",
     "summaries/16_bauman_vida_consumo.md",
+    "summaries/15_costa_formas_de_vida_infotecnologicas.md",
+    "summaries/14_han_infocracia.md",
+    "summaries/19_palermo_ventrici_hiperconexion.md",
+    "summaries/18_han_crisis_verdad.md",
+    "summaries/17_palermo_ventrici_canto_de_las_diversidades.md",
+    "texts/18_han_crisis_verdad.pdf",
+    "Prompt.md",
+    "export/17_palermo_ventrici_canto_de_las_diversidades.pdf",
     "export/16_bauman_vida_consumo.pdf",
     "export/14_han_infocracia.pdf",
     "texts/17_palermo_ventrici_canto_de_las_diversidades.pdf",
-    "Prompt.md",
     "brujas.md",
     "texts/22_federici_caza_de_brujas.pdf",
     "texts/16_bauman_vida_consumo.pdf",
     "texts/17_palermo_ventrici_canto_de_las_diversidades_rotated-1.pdf",
     "texts/15_costa_formas_de_vida_infotecnologicas.pdf",
     "texts/vida consumo bauman capitulo I.pdf",
-    "export/vida consumo bauman capitulo I.pdf",
-    "summaries/19_palermo_ventrici_hiperconexion.md",
-    "summaries/15_costa_formas_de_vida_infotecnologicas.md",
     "flora.md",
     "aditivos.md",
     "Pasted image 20231213020241.png",
     "Pasted image 20231213020301.png",
-    "summaries/14_han_infocracia.md",
     "summaries/13_valiente_dime_lo_que_comes.md",
     "summaries/12_sibilia_biopoder.md",
     "summaries/11_foucalt_verdad_formas_juridicas_quinta.md",
