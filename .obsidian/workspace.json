@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8fa40b767c63b2f",
+        "id": "e1cf812606223564",
         "type": "tabs",
-        "dimension": 29.90405117270789,
         "children": [
           {
-            "id": "f893e670b0631311",
+            "id": "61d8a932530bcbdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summaries/15_costa_formas_de_vida_infotecnologicas.md",
+                "file": "summaries/17_palermo_ventrici_canto_de_las_diversidades.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,17 +22,16 @@
         ]
       },
       {
-        "id": "92eb063fb87ecdcd",
+        "id": "b7b651cbe495dab8",
         "type": "tabs",
-        "dimension": 70.0959488272921,
         "children": [
           {
-            "id": "1ed596fabeaec138",
+            "id": "20df407d299a05bd",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "texts/18_han_crisis_verdad.pdf"
+                "file": "texts/17_palermo_ventrici_canto_de_las_diversidades.pdf"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summaries/15_costa_formas_de_vida_infotecnologicas.md",
+                "file": "summaries/17_palermo_ventrici_canto_de_las_diversidades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summaries/15_costa_formas_de_vida_infotecnologicas.md",
+                "file": "summaries/17_palermo_ventrici_canto_de_las_diversidades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summaries/15_costa_formas_de_vida_infotecnologicas.md"
+                "file": "summaries/17_palermo_ventrici_canto_de_las_diversidades.md"
               }
             }
           }
@@ -165,29 +163,32 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "f893e670b0631311",
+  "active": "61d8a932530bcbdc",
   "lastOpenFiles": [
-    "texts/18_han_crisis_verdad.pdf",
     "texts/17_palermo_ventrici_canto_de_las_diversidades.pdf",
+    "summaries/17_palermo_ventrici_canto_de_las_diversidades.md",
+    "Prompt.md",
+    "summaries/16_bauman_vida_consumo.md",
+    "brujas.md",
+    "texts/22_federici_caza_de_brujas.pdf",
     "texts/16_bauman_vida_consumo.pdf",
+    "texts/17_palermo_ventrici_canto_de_las_diversidades_rotated-1.pdf",
     "texts/15_costa_formas_de_vida_infotecnologicas.pdf",
+    "texts/vida consumo bauman capitulo I.pdf",
+    "export/vida consumo bauman capitulo I.pdf",
+    "export/19_palermo_ventrici_hiperconexion.pdf",
+    "summaries/19_palermo_ventrici_hiperconexion.md",
+    "texts/19_palermo_ventrici_hiperconexion.pdf",
+    "texts/18_han_crisis_verdad.pdf",
     "summaries/15_costa_formas_de_vida_infotecnologicas.md",
-    "export/15_costa_formas_de_vida_infotecnologicas.pdf",
     "flora.md",
     "aditivos.md",
     "Pasted image 20231213020241.png",
     "Pasted image 20231213020301.png",
     "summaries/14_han_infocracia.md",
-    "export/14_han_infocracia.pdf",
-    "texts/14_han_infocracia.pdf",
-    "Prompt.md",
-    "texts/13_valiente_dime_lo_que_comes.pdf",
     "summaries/13_valiente_dime_lo_que_comes.md",
-    "export/13_valiente_dime_lo_que_comes.pdf",
     "summaries/12_sibilia_biopoder.md",
-    "export/12_sibilia_biopoder.pdf",
     "summaries/11_foucalt_verdad_formas_juridicas_quinta.md",
-    "export/11_foucalt_verdad_formas_juridicas_quinta.pdf",
     "summaries/10_grimson_mitomanias.md",
     "summaries/09_margulis_segregacion_negada.md",
     "summaries/08_auyero_como_hacen_los_pobres_para_sobrevivir.md",
