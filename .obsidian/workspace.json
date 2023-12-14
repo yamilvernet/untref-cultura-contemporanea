@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b7b651cbe495dab8",
+        "id": "dd418134cbe8c9b3",
         "type": "tabs",
         "children": [
           {
-            "id": "61d8a932530bcbdc",
+            "id": "c6d9e7d30cbefbea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summaries/22_federici_caza_de_brujas.md",
+                "file": "summaries/09_margulis_segregacion_negada.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0441a7dc7b061ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af48255d919d1d9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "texts/20_calvo_aruguete_fake_news.pdf"
               }
             }
           }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summaries/22_federici_caza_de_brujas.md",
+                "file": "summaries/09_margulis_segregacion_negada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summaries/22_federici_caza_de_brujas.md",
+                "file": "summaries/09_margulis_segregacion_negada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summaries/22_federici_caza_de_brujas.md"
+                "file": "summaries/09_margulis_segregacion_negada.md"
               }
             }
           }
@@ -147,14 +163,18 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "61d8a932530bcbdc",
+  "active": "c6d9e7d30cbefbea",
   "lastOpenFiles": [
+    "texts/21_casullo_debate_modernidad_posmodernidad.pdf",
+    "Prompt.md",
+    "texts/20_calvo_aruguete_fake_news.pdf",
+    "summaries/20_calvo_aruguete_fake_news.md",
+    "summaries/22_federici_caza_de_brujas.md",
+    "texts/sdf",
+    "texts/Fake-news-trolls-y-otros-encantos--1.pdf",
     "summaries/19_palermo_ventrici_hiperconexion.md",
     "summaries/18_han_crisis_verdad.md",
-    "summaries/22_federici_caza_de_brujas.md",
     "export/22_federici_caza_de_brujas.pdf",
-    "texts/21_casullo_debate_modernidad_posmodernidad.pdf",
-    "texts/20_calvo_aruguete_fake_news.pdf",
     "texts/18_han_crisis_verdad.pdf",
     "texts/19_palermo_ventrici_hiperconexion.pdf",
     "texts/22_federici_caza_de_brujas.pdf",
@@ -163,10 +183,7 @@
     "summaries/15_costa_formas_de_vida_infotecnologicas.md",
     "summaries/14_han_infocracia.md",
     "summaries/17_palermo_ventrici_canto_de_las_diversidades.md",
-    "Prompt.md",
     "export/17_palermo_ventrici_canto_de_las_diversidades.pdf",
-    "export/16_bauman_vida_consumo.pdf",
-    "export/14_han_infocracia.pdf",
     "flora.md",
     "aditivos.md",
     "Pasted image 20231213020241.png",
