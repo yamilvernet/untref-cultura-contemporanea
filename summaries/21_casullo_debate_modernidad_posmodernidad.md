@@ -1,0 +1,24 @@
+
+Se aborda la configuración de la escena actual, marcada por una crisis en el sistema capitalista que no es terminal, sino una reformulación. Se señala el cambio en la dinámica del capitalismo, con el predominio del capital financiero sobre el industrial desde la crisis del petróleo en los años 70. 
+
+Se describe la crisis de un modelo de Estado que intervenía activamente en la sociedad, especialmente en la garantía del pleno empleo. Este modelo, caracterizado por la distribución y protección social, entra en crisis, afectando la política de empleo y la fuerza de trabajo.
+
+Se aborda la crisis de los proyectos socialistas, comunistas y nacionalistas como alternativas al sistema capitalista. La crisis del Estado de Bienestar afecta estos proyectos, y se menciona la caída de las experiencias socialistas, como la Unión Soviética, como parte de esta crisis.
+
+Se destaca la pérdida de protagonismo político y sindical de la clase obrera, un sujeto histórico que antes se consideraba clave para el cambio social. Se menciona la disminución de la influencia de este sector en la sociedad, marcando una interrupción en su crecimiento cuantitativo y cualitativo.
+
+Se refiere a la crisis de un modelo sociocultural basado en el aumento constante de las fuerzas productivas y la centralidad de la inversión capitalista en la industria. La sociedad del pleno empleo también se ve cuestionada por cambios tecnológicos y productivos.
+
+Se aborda la crisis de las formas tradicionales de política, partidos políticos y representación. La administración de la crisis hace que los partidos políticos se vuelvan indistinguibles en sus programas y capacidades de diferenciarse.
+
+Se destaca la importancia de la revolución tecnológica, especialmente la informática, que afecta las lógicas productivas, reemplaza trabajos por máquinas y globaliza el capital financiero. Se señala la dificultad de las políticas de izquierda para abordar estos cambios.
+
+Además, se destacó la intervención cultural del capitalismo en aspectos cotidianos, transformando identidades a través del consumo y la cultura mediática. 
+
+Se describe la instrumentalización cultural por parte del capitalismo a través de los medios de comunicación, publicidad y entretenimiento. Se menciona cómo estas microculturas, basadas en el consumo, afectan la construcción de identidades individuales y sociales.
+
+Se ejemplifica la prevalencia de la cultura capitalista incluso después de eventos significativos como la caída del Muro de Berlín. Se destaca cómo la cultura capitalista se impuso sobre la cultura socialista en la Alemania reunificada.
+
+El texto aborda la actualidad, marcada por profundas transformaciones en diversos ámbitos. Se plantea la aparición de actores sociales colectivos y la desaparición de ciertos proyectos utópicos. Se destaca la crisis en la sociedad del trabajo y la pérdida de protagonismo de la clase obrera. Se cuestiona la vigencia de la modernidad frente a la posmodernidad, señalando un quiebre cultural profundo. Habermas se menciona como referencia, indicando una crisis en el proceso racionalizador de la modernidad. La discusión se centra en la incapacidad de la razón para responder preguntas fundamentales sobre la historia en el contexto actual, con menciones a variables posmodernas y reaccionarias. Se destaca la necesidad de un profundo debate sobre el sentido y la dirección de la historia.
+
+La historia moderna enfrenta desafíos y cuestionamientos respecto a la validez de conceptos fundamentales. Dudas sobre la utilidad del avance tecnológico, la tala de bosques y la democracia se presentan en un contexto donde las grandes ideas ilustradas parecen agotadas. Se plantea la crisis de la razón moderna y la posible transición hacia una historia posmoderna. Se cuestiona la vigencia de nociones como progreso, autodeterminación, fraternidad y la capacidad de la política para alcanzar la felicidad humana. La posmodernidad se caracteriza por la disolución de grandes relatos, la fragmentación de la realidad y la prevalencia de simulacros mediáticos, generando una nueva forma de subjetividad marcada por la atrofia de la experiencia y la aceptación de simulacros como realidad. La autoría se diluye en la estética massmediática, donde todo se homogeneiza en un mismo espectáculo sin distinciones significativas. La realidad pierde su solidez en medio de la saturación mediática, dando paso a una nueva forma de irracionalismo y conservadurismo. La posmodernidad se presenta como una época donde la crítica y la esperanza de cambio se ven desafiadas, y la experiencia de lo real se disuelve en una multiplicidad de simulacros.

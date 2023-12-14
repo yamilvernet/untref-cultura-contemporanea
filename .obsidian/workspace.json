@@ -6,6 +6,7 @@
       {
         "id": "dd418134cbe8c9b3",
         "type": "tabs",
+        "dimension": 32.19616204690831,
         "children": [
           {
             "id": "c6d9e7d30cbefbea",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summaries/09_margulis_segregacion_negada.md",
+                "file": "summaries/21_casullo_debate_modernidad_posmodernidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +23,17 @@
         ]
       },
       {
-        "id": "0441a7dc7b061ac3",
+        "id": "0b029c42e562e7ac",
         "type": "tabs",
+        "dimension": 67.80383795309169,
         "children": [
           {
-            "id": "1af48255d919d1d9",
+            "id": "c6413dfbea205265",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "texts/20_calvo_aruguete_fake_news.pdf"
+                "file": "texts/21_casullo_debate_modernidad_posmodernidad.pdf"
               }
             }
           }
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summaries/09_margulis_segregacion_negada.md",
+                "file": "summaries/21_casullo_debate_modernidad_posmodernidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summaries/09_margulis_segregacion_negada.md",
+                "file": "summaries/21_casullo_debate_modernidad_posmodernidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summaries/09_margulis_segregacion_negada.md"
+                "file": "summaries/21_casullo_debate_modernidad_posmodernidad.md"
               }
             }
           }
@@ -165,10 +167,14 @@
   },
   "active": "c6d9e7d30cbefbea",
   "lastOpenFiles": [
+    "export/21_casullo_debate_modernidad_posmodernidad.pdf",
+    "summaries/20_calvo_aruguete_fake_news.md",
+    "export/20_calvo_aruguete_fake_news.pdf",
+    "summaries/21_casullo_debate_modernidad_posmodernidad.md",
     "texts/21_casullo_debate_modernidad_posmodernidad.pdf",
     "Prompt.md",
+    "summaries/09_margulis_segregacion_negada.md",
     "texts/20_calvo_aruguete_fake_news.pdf",
-    "summaries/20_calvo_aruguete_fake_news.md",
     "summaries/22_federici_caza_de_brujas.md",
     "texts/sdf",
     "texts/Fake-news-trolls-y-otros-encantos--1.pdf",
@@ -183,7 +189,6 @@
     "summaries/15_costa_formas_de_vida_infotecnologicas.md",
     "summaries/14_han_infocracia.md",
     "summaries/17_palermo_ventrici_canto_de_las_diversidades.md",
-    "export/17_palermo_ventrici_canto_de_las_diversidades.pdf",
     "flora.md",
     "aditivos.md",
     "Pasted image 20231213020241.png",
@@ -192,7 +197,6 @@
     "summaries/12_sibilia_biopoder.md",
     "summaries/11_foucalt_verdad_formas_juridicas_quinta.md",
     "summaries/10_grimson_mitomanias.md",
-    "summaries/09_margulis_segregacion_negada.md",
     "summaries/08_auyero_como_hacen_los_pobres_para_sobrevivir.md",
     "summaries/07_svampa_fragmentacion_espacial.md",
     "summaries/06_bauman_espacio_tiempo.md",
@@ -200,7 +204,6 @@
     "summaries/04_Ibanez_publicidad_anuncia_si_misma.md",
     "summaries/03_valiente_mundializacion_e_identidad.md",
     "summaries/02_ortiz_cultura_y_modernidad.md",
-    "summaries/01_ortiz_modernidad_y_espacio.md",
-    "README.md"
+    "summaries/01_ortiz_modernidad_y_espacio.md"
   ]
 }
