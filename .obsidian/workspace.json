@@ -6,7 +6,6 @@
       {
         "id": "b7b651cbe495dab8",
         "type": "tabs",
-        "dimension": 41.47121535181237,
         "children": [
           {
             "id": "61d8a932530bcbdc",
@@ -14,26 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summaries/18_han_crisis_verdad.md",
+                "file": "summaries/22_federici_caza_de_brujas.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "de0736dd16fe6046",
-        "type": "tabs",
-        "dimension": 58.52878464818764,
-        "children": [
-          {
-            "id": "2f1663c8c956945e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "texts/18_han_crisis_verdad.pdf"
               }
             }
           }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summaries/18_han_crisis_verdad.md",
+                "file": "summaries/22_federici_caza_de_brujas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summaries/18_han_crisis_verdad.md",
+                "file": "summaries/22_federici_caza_de_brujas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summaries/18_han_crisis_verdad.md"
+                "file": "summaries/22_federici_caza_de_brujas.md"
               }
             }
           }
@@ -167,25 +149,24 @@
   },
   "active": "61d8a932530bcbdc",
   "lastOpenFiles": [
+    "summaries/19_palermo_ventrici_hiperconexion.md",
+    "summaries/18_han_crisis_verdad.md",
+    "summaries/22_federici_caza_de_brujas.md",
+    "export/22_federici_caza_de_brujas.pdf",
+    "texts/21_casullo_debate_modernidad_posmodernidad.pdf",
+    "texts/20_calvo_aruguete_fake_news.pdf",
+    "texts/18_han_crisis_verdad.pdf",
+    "texts/19_palermo_ventrici_hiperconexion.pdf",
+    "texts/22_federici_caza_de_brujas.pdf",
     "export/18_han_crisis_verdad.pdf",
     "summaries/16_bauman_vida_consumo.md",
     "summaries/15_costa_formas_de_vida_infotecnologicas.md",
     "summaries/14_han_infocracia.md",
-    "summaries/19_palermo_ventrici_hiperconexion.md",
-    "summaries/18_han_crisis_verdad.md",
     "summaries/17_palermo_ventrici_canto_de_las_diversidades.md",
-    "texts/18_han_crisis_verdad.pdf",
     "Prompt.md",
     "export/17_palermo_ventrici_canto_de_las_diversidades.pdf",
     "export/16_bauman_vida_consumo.pdf",
     "export/14_han_infocracia.pdf",
-    "texts/17_palermo_ventrici_canto_de_las_diversidades.pdf",
-    "brujas.md",
-    "texts/22_federici_caza_de_brujas.pdf",
-    "texts/16_bauman_vida_consumo.pdf",
-    "texts/17_palermo_ventrici_canto_de_las_diversidades_rotated-1.pdf",
-    "texts/15_costa_formas_de_vida_infotecnologicas.pdf",
-    "texts/vida consumo bauman capitulo I.pdf",
     "flora.md",
     "aditivos.md",
     "Pasted image 20231213020241.png",
