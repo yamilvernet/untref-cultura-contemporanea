@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summaries/21_casullo_debate_modernidad_posmodernidad.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summaries/21_casullo_debate_modernidad_posmodernidad.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summaries/21_casullo_debate_modernidad_posmodernidad.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summaries/21_casullo_debate_modernidad_posmodernidad.md"
+                "file": "README.md"
               }
             }
           }
@@ -167,12 +167,12 @@
   },
   "active": "c6d9e7d30cbefbea",
   "lastOpenFiles": [
+    "summaries/21_casullo_debate_modernidad_posmodernidad.md",
+    "Prompt.md",
     "export/21_casullo_debate_modernidad_posmodernidad.pdf",
     "summaries/20_calvo_aruguete_fake_news.md",
     "export/20_calvo_aruguete_fake_news.pdf",
-    "summaries/21_casullo_debate_modernidad_posmodernidad.md",
     "texts/21_casullo_debate_modernidad_posmodernidad.pdf",
-    "Prompt.md",
     "summaries/09_margulis_segregacion_negada.md",
     "texts/20_calvo_aruguete_fake_news.pdf",
     "summaries/22_federici_caza_de_brujas.md",
@@ -184,7 +184,6 @@
     "texts/18_han_crisis_verdad.pdf",
     "texts/19_palermo_ventrici_hiperconexion.pdf",
     "texts/22_federici_caza_de_brujas.pdf",
-    "export/18_han_crisis_verdad.pdf",
     "summaries/16_bauman_vida_consumo.md",
     "summaries/15_costa_formas_de_vida_infotecnologicas.md",
     "summaries/14_han_infocracia.md",

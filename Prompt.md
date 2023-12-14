@@ -1,1 +1,0 @@
-Por favor, resuma el siguiente texto de manera concisa, destacando los hechos clave y conceptos fundamentales, manteniendo la historicidad intacta y asegurando que la esencia de la información se conserve. Destacá los conceptos tomados de otros autores. Evite utilizar frases introductorias como 'El Capítulo 1 del libro aborda' o 'El texto trata':
